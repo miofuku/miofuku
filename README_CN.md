@@ -6,8 +6,7 @@
 <h3 align="center">热爱种地，游戏，教育。</h3>
 
 <p align="center">
-        <a href="https://github.com/miofuku/miofuku/README.md"><span>English</span></a>|
-        <a href="https://github.com/miofuku/miofuku/README_DE.md"><span>Deutsch</span></a>|
+        <a href="https://github.com/miofuku/miofuku/blob/main/README.md"><span>English</span></a>
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=miofuku&label=Profile%20views&color=0e75b6&style=flat" alt="miofuku" /> </p>
