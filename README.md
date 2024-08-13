@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm miofuku</h1>
  <p align="center">
-        <a><img src="cat.gif" width="50"/></a>
+        <a><img src="cat.gif" width="150"/></a>
     </p>
 <h3 align="center">A passionate gardener, gamer and educator.</h3>
 
