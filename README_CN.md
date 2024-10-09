@@ -14,13 +14,20 @@
 <h3 align="left">项目：</h3>
     <table align="center">
         <tr>
-            <td><a href="https://github.com/miofuku/ig-schoolmaster">ig-schoolmaster</a> - 个性化学习工具</td>
-            <td><a href="https://github.com/miofuku/phd-guide">phd-guide</a> - 德国博士申请指南</td>
+            <td><a href="https://github.com/miofuku/ig-schoolmaster">The Ignorant Schoolmaster</a> - 个性化学习工具</td>
+            <td><a href="https://github.com/miofuku/phd-guide">PhD Guide</a> - 德国博士申请指南</td>
         </tr>
         <tr>
-            <td><a href="https://github.com/miofuku/farming-bot">farming-bot</a> - 智能种地工具</td>
-            <td><a href="https://github.com/miofuku/cloudcomputing">cloudcomputing</a> - Cloud Computing课程</td>
+            <td><a href="https://github.com/miofuku/farming-bot">Farming Bot</a> - 智能种地工具</td>
+            <td><a href="https://github.com/miofuku/cloudcomputing">Cloud Computing</a> - Cloud Computing课程</td>
         </tr>
+        <tr>
+            <td><a href="https://github.com/miofuku/glitter">Glitter</a> - 区块链人际网络</td>
+            <td><a href="https://github.com/miofuku/math-exchange">MathExchange</a> - 类StackOverflow的数学论坛</td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/miofuku/siren">Siren</a> - 警示信息网站</td>
+            <td><a href="https://github.com/miofuku/anti-discrim">Voice Out</a> - 反歧视网站</td>
         </tr>
     </table>
 
