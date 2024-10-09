@@ -13,19 +13,19 @@
 <h3 align="left">Projects:</h3>
     <table align="center">
         <tr>
-            <td><a href="https://github.com/miofuku/ig-schoolmaster">ig-schoolmaster</a> - Personalized learning tool</td>
-            <td><a href="https://github.com/miofuku/phd-guide">phd-guide</a> - Guide for pursuing a PhD in Germany</td>
+            <td><a href="https://github.com/miofuku/ig-schoolmaster">The Ignorant Schoolmaster</a> - Personalized learning tool</td>
+            <td><a href="https://github.com/miofuku/phd-guide">Phd Guide</a> - Guide for pursuing a PhD in Germany</td>
         </tr>
         <tr>
-            <td><a href="https://github.com/miofuku/farming-bot">farming-bot</a> - Tool for smart farming</td>
-            <td><a href="https://github.com/miofuku/cloudcomputing">cloudcomputing</a> - Cloud Computing Course</td>
+            <td><a href="https://github.com/miofuku/farming-bot">Farming Bot</a> - Tool for smart farming</td>
+            <td><a href="https://github.com/miofuku/cloudcomputing">Cloud Computing</a> - Cloud Computing Course</td>
         </tr>
         <tr>
-            <td><a href="https://github.com/miofuku/glitter">glitter</a> - Interpersonal Network</td>
+            <td><a href="https://github.com/miofuku/glitter">Glitter</a> - Interpersonal Network</td>
             <td><a href="https://github.com/miofuku/math-exchange">MathExchange</a> - StackOverflow-like Mathematics Forum</td>
         </tr>
         <tr>
-            <td><a href="https://github.com/miofuku/siren">siren</a> - Website for Alarms</td>
+            <td><a href="https://github.com/miofuku/siren">Siren</a> - Website for Alarms</td>
             <td><a href="https://github.com/miofuku/anti-discrim">Voice Out</a> - Speak Up Against Discrimination</td>
         </tr>
     </table>
