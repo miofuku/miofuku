@@ -14,7 +14,7 @@
     <table align="center">
         <tr>
             <td><a href="https://github.com/miofuku/ig-schoolmaster">The Ignorant Schoolmaster</a> - Personalized learning tool</td>
-            <td><a href="https://github.com/miofuku/blind-date">PhD Application Advisor</a> - AI expert advice for pursuing PhD in Germany</td>
+            <td><a href="https://github.com/miofuku/phd-guide">PhD Guide</a> - Guide for pursuing PhD in Germany</td>
         </tr>
         <tr>
             <td><a href="https://github.com/miofuku/farming-bot">Farming Bot</a> - Tool for smart farming</td>
