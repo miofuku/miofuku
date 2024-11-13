@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm miofuku</h1>
+<h1 align="center">Hi 👋, I'm miochat</h1>
  <p align="center">
         <a><img src="cat.gif" width="150"/></a>
     </p>
