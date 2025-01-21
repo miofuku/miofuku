@@ -14,7 +14,6 @@
 <h3 align="left">项目：</h3>
     <table align="center">
         <tr>
-            <td><a href="https://github.com/miofuku/ig-schoolmaster">The Ignorant Schoolmaster</a> - 个性化学习工具</td>
             <td><a href="https://github.com/miofuku/phd-guide">PhD Guide</a> - 德国博士申请指南</td>
         </tr>
         <tr>
