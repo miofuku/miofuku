@@ -25,7 +25,6 @@
         </tr>
         <tr>
             <td><a href="https://github.com/miofuku/siren">Siren</a> - Website for Alarms</td>
-            <td><a href="https://github.com/miofuku/anti-discrim">Voice Out</a> - Speak Up Against Discrimination</td>
         </tr>
     </table>
 
