@@ -18,7 +18,7 @@
             <td><a href="https://github.com/miofuku/phd-guide">PhD Guide</a> - 德国博士申请指南</td>
         </tr>
         <tr>
-            <td><a href="https://github.com/miofuku/farming-bot">Farming Bot</a> - 智能种地工具</td>
+            <td><a href="https://github.com/miofuku/anti-discrim">逆风</a> - 反歧视平台</td>
             <td><a href="https://github.com/miofuku/cloudcomputing">Cloud Computing</a> - Cloud Computing课程</td>
         </tr>
         <tr>
