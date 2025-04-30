@@ -14,7 +14,7 @@
 <h3 align="left">项目：</h3>
     <table align="center">
         <tr>
-            <td><a href=""></a></td>
+            <td><a href="https://github.com/miofuku/ai-diary">智能日记</a> - AI+八字黄历赋能的日记</td>
             <td><a href="https://github.com/miofuku/phd-guide">PhD Guide</a> - 德国博士申请指南</td>
         </tr>
         <tr>
