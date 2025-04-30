@@ -13,7 +13,7 @@
 <h3 align="left">Projects:</h3>
     <table align="center">
         <tr>
-            <td><a href="https://github.com/miofuku/ai-diary">AI Diary</a> - Diary with AI-powered insights and Chinese calendar</td>
+            <td><a href="https://github.com/miofuku/ai-diary">AI Diary</a> - Diary with AI-powered insights and Chinese astrology</td>
             <td><a href="https://github.com/miofuku/phd-guide">PhD Guide</a> - Guide for pursuing PhD in Germany</td>
         </tr>
         <tr>
